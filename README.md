@@ -37,7 +37,7 @@
 
 ## 💻 Projects
 
-<sub>🧠 *Explore my GitHub repos for code, insights, and models.*</sub>
+<sub>🔗 *Explore more at: [https://sites.google.com/ds.study.iitm.ac.in/hari-prapan/projects](https://sites.google.com/ds.study.iitm.ac.in/hari-prapan/projects)*</sub>
 
 ---
 
