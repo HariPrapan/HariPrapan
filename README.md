@@ -22,12 +22,18 @@
 
 ## 🏆 Achievements
 
-- 🥇 **Best Project Award** – *Business Data Management* ([View Project 🔗](https://study.iitm.ac.in/student-achievements/projects/BDM))  
-- 📰 Featured in [CUSB News](https://www.cusb.ac.in) for GATE 2025 qualification  
+- 🗞️ [**Story published in BS INSIDER** – *A Scholar's Pursuit*](http://bsinsider.in/a-scholars-pursuit-hari/)
+- 📰 Featured in [CUSB News](https://www.cusb.ac.in/index.php?option=com_content&view=article&id=687:over-50-students-from-various-departments-of-cusb-qualified-for-gate-2025&catid=57&Itemid=620) for GATE 2025 qualification
 - 🎬 **Video Interviews**:  
   - [🎤 Bharathi Ma'am](https://www.youtube.com/watch?v=jUEzxkm8XzY)  
   - [🎤 Priya Negi](https://youtu.be/yFOj48K0UbU?si=IBKJ9UZ8NYXZv5vT&t=1)  
   - [🎤 Prem Kumar](https://youtu.be/uZBHNj66500?si=trGapu0IWmfWV293)
+- 📩 **Offer Received** – *StartEarly PhD, IIT Gandhinagar*  
+  [📄 Offer Letter](https://drive.google.com/file/d/1uuGOhUG_l1PXZbq8plpixRCumXKdYAtV/view?usp=sharing) *(Dec 2024)*
+
+- 🎓 **Double Diplomas Awarded** – *Programming & Data Science, IIT Madras*  
+  [🎥 Watch Ceremony](https://youtu.be/Y0g2b3J8hXM?si=644JLzBQTh66ugh3&t=1729) *(May 2024)*
+- 🥇 [**Best Project Award** – *Business Data Management, IIT Madras*](https://study.iitm.ac.in/student-achievements/projects/BDM%20Capstone/2022/May%20Term%202022)
 
 ---
 
