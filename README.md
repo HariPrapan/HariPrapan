@@ -1,9 +1,8 @@
 <h1 align="center">🌟 Hi, I'm <span style="color:#ff6347;">Hari Prapan</span> 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Research-Scholar-8A2BE2?style=for-the-badge&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI/ML%20Intern-NIELIT-228B22?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IIT%20Gandhinagar-2025-blueviolet?style=for-the-badge&logo=google-scholar"/>
+  <img src="https://img.shields.io/badge/Doctoral%20Researcher-IIT%20Gandhinagar-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Teaching%20Assistant-NIELIT%20Patna-228B22?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
