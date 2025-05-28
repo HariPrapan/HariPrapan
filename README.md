@@ -56,14 +56,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HariPrapan&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariPrapan&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-</div>
 
 ---
 
@@ -77,8 +69,8 @@
 </p>
 
 📞 **Phone:** 8292XXXX33  
-🌐 [**Personal Website**](https://sites.google.com/ds.study.iitm.ac.in/hari-prapan/home)  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/your-linkedin-profile)
+🌐 [**Personal Website**](https://sites.google.com/ds.study.iitm.ac.in/hari-prapan/)  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/hariprapan/)
 
 ---
 
