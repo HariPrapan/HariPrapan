@@ -67,10 +67,10 @@
 ## 📬 Contact Me
 
 <p>
-  <img src="https://img.shields.io/badge/Gmail-prapanhari01@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IITGN-23120043@iitgn.ac.in-blue?style=flat&logo=google"/>
-  <img src="https://img.shields.io/badge/IITM-21f3002087@ds.study.iitm.ac.in-red?style=flat&logo=google"/>
-  <img src="https://img.shields.io/badge/DU-mat20.1369.hari@sgndkc.du.ac.in-green?style=flat&logo=google"/>
+  <img src="https://img.shields.io/badge/Gmail-prapanhari01@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/IITGN-23120043@iitgn.ac.in-blue?style=flat&logo=google"/> <br>
+  <img src="https://img.shields.io/badge/IITM-21f3002087@ds.study.iitm.ac.in-red?style=flat&logo=google"/> <br>
+  <img src="https://img.shields.io/badge/DU-mat20.1369.hari@sgndkc.du.ac.in-green?style=flat&logo=google"/> <br>
 </p>
 
 📞 **Phone:** 8292XXXX33  
