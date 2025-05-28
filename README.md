@@ -35,18 +35,22 @@
   [🎥 Watch Ceremony](https://youtu.be/Y0g2b3J8hXM?si=644JLzBQTh66ugh3&t=1729) *(May 2024)*
 - 🥇 [**Best Project Award** – *Business Data Management, IIT Madras*](https://study.iitm.ac.in/student-achievements/projects/BDM%20Capstone/2022/May%20Term%202022)
 
----
-
 ## 💻 Projects
-
-### 📲 App Development Resources
-
-🔹 [App Dev 1 Resource Page](https://sites.google.com/ds.study.iitm.ac.in/hari-prapan/home/projects/app-dev-1-resource)  
-🔹 [App Dev 2 Resource Page](https://sites.google.com/ds.study.iitm.ac.in/hari-prapan/home/projects/app-dev-2-resource)
 
 <sub>🧠 *Explore my GitHub repos for code, insights, and models.*</sub>
 
 ---
+
+- 🔍 **DataEaze** – No-code platform for data analysis & ML.
+- 🤖 **GenAI in Programming Ed** – Using Generative AI to enhance programming education.
+- 🌾 **Agro-Business Capstone** – Data insights for agricultural business.
+- 🎟️ **Movie Booking App v1 & v2** – Full-stack apps for booking tickets.
+- 📈 **Sentiment Analysis** – Classifying movie review sentiments with ML.
+- 🗣️ **Professional Skills Project** – Study on the role of communication in careers.
+- 🧩 **OddTown-EvenTown Game** – Educational web app blending math and gaming.
+
+---
+
 
 ## 🛠️ Skills & Tools
 
