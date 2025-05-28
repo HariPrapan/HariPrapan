@@ -36,7 +36,8 @@ National Institute of Electronics & Information Technology (NIELIT), Patna
 
 - 📰 Featured in [CUSB News Article](https://www.cusb.ac.in) for GATE 2025 qualification
 
-- 🎥 Interviews:  
+- 🎥 Interviews:
+ - [Interview by Bharathi Ma'am](https://www.youtube.com/watch?v=jUEzxkm8XzY)  
   - [Interview by Priya Negi](https://youtu.be/yFOj48K0UbU?si=IBKJ9UZ8NYXZv5vT&t=1)  
   - [Interview by Prem Kumar](https://youtu.be/uZBHNj66500?si=trGapu0IWmfWV293)
 
