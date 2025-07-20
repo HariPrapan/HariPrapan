@@ -1,4 +1,4 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <h1 align="center">🌟 Hi, I'm <span style="color:#ff6347;">Hari Prapan</span> 👋</h1>
 
 <p align="center">
@@ -7,8 +7,7 @@
 </p>
 
 ---
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="hariprapan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/hariprapan?trk=profile-badge">Hari Prapan</a></div>
-              
+
 ## 🧠 Academic Background
 
 🎓 **BS in Data Science & Applications**  
